@@ -1,0 +1,12 @@
+﻿$PBExportHeader$pwd_changer.srj
+EXE:c:\sviluppo\pwd_changer\pwd_changer.exe,,0,1
+CMP:1,0,0,2,0,0
+COM:Sybase, Inc.
+DES:Sybase, Inc. Product File
+CPY:
+PRD:Powerbuilder Enterprise Series
+VER:8.0.4.10501
+PBD:C:\Sviluppo\Pwd_Changer\pwd_changer.pbl,,0
+OBJ:c:\sviluppo\pwd_changer\pwd_changer.pbl,m_pwd_changer,m
+OBJ:C:\Sviluppo\Pwd_Changer\pwd_changer.pbl,pwd_changer,a
+OBJ:c:\sviluppo\pwd_changer\pwd_changer.pbl,w_pwd_changer,w

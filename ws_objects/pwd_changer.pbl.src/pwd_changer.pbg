@@ -1,0 +1,10 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "pwd_changer.pbl" "";
+@end;
+@begin Objects 
+ "pwd_changer.sra" "pwd_changer.pbl";
+ "pwd_changer.srj" "pwd_changer.pbl";
+ "m_pwd_changer.srm" "pwd_changer.pbl";
+ "w_pwd_changer.srw" "pwd_changer.pbl";
+@end;
