@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "pwd_changer.pbt";
+@end;
+DefaultTarget "pwd_changer.pbt";
+DefaultRemoteTarget "pwd_changer.pbt";
